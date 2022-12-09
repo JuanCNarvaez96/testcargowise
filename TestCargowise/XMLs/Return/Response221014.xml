@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UniversalResponse version="1.1" xmlns="http://www.cargowise.com/Schemas/Universal/2011/11">
+  <Status>ERR</Status>
+  <Data />
+  <ProcessingLog>Warning - There is no business object matching the criteria.</ProcessingLog>
+</UniversalResponse>
+<?xml version="1.0" encoding="utf-8"?>
+<UniversalResponse version="1.1" xmlns="http://www.cargowise.com/Schemas/Universal/2011/11">
+  <Status>ERR</Status>
+  <Data />
+  <ProcessingLog>Error - Line 2: Invalid Root element found. Expected &lt;UniversalShipmentRequest&gt; but found &lt;UniversalShipmentRequest
+  version="1.1" xmlns="http://www.cargowise.com/Schemas/Universal/2011/11"&gt; instead.
+Warning - There is no business object matching the criteria.</ProcessingLog>
+</UniversalResponse>
+<?xml version="1.0" encoding="utf-8"?>
+<UniversalResponse version="1.1" xmlns="http://www.cargowise.com/Schemas/Universal/2011/11">
+  <Status>ERR</Status>
+  <Data />
+  <ProcessingLog>Error - Line 2: Invalid Root element found. Expected &lt;UniversalShipmentRequest&gt; but found &lt;UniversalShipmentRequest
+  version="1.1" xmlns="http://www.cargowise.com/Schemas/Universal/2011/11"&gt; instead.
+Warning - There is no business object matching the criteria.</ProcessingLog>
+</UniversalResponse>
+<?xml version="1.0" encoding="utf-8"?>
+<UniversalResponse version="1.1" xmlns="http://www.cargowise.com/Schemas/Universal/2011/11">
+  <Status>ERR</Status>
+  <Data />
+  <ProcessingLog>Error - Line 2: Invalid Root element found. Expected &lt;UniversalShipmentRequest&gt; but found &lt;UniversalShipmentRequest
+  version="1.1" xmlns="http://www.cargowise.com/Schemas/Universal/2011/11"&gt; instead.
+Warning - There is no business object matching the criteria.</ProcessingLog>
+</UniversalResponse>
+<?xml version="1.0" encoding="utf-8"?>
+<UniversalResponse version="1.1" xmlns="http://www.cargowise.com/Schemas/Universal/2011/11">
+  <Status>ERR</Status>
+  <Data />
+  <ProcessingLog>Warning - There is no business object matching the criteria.</ProcessingLog>
+</UniversalResponse>
+<?xml version="1.0" encoding="utf-8"?>
+<UniversalResponse version="1.1" xmlns="http://www.cargowise.com/Schemas/Universal/2011/11">
+  <Status>ERR</Status>
+  <Data />
+  <ProcessingLog>Warning - There is no business object matching the criteria.</ProcessingLog>
+</UniversalResponse>
+<?xml version="1.0" encoding="utf-8"?>
+<UniversalResponse version="1.1" xmlns="http://www.cargowise.com/Schemas/Universal/2011/11">
+  <Status>ERR</Status>
+  <Data />
+  <ProcessingLog>Warning - There is no business object matching the criteria.</ProcessingLog>
+</UniversalResponse>

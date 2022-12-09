@@ -1,0 +1,17 @@
+<UniversalShipmentRequest version="1.1" xmlns="http://www.cargowise.com/Schemas/Universal/2011/11">
+  <ShipmentRequest>
+    <DataContext>
+      <DataTargetCollection>
+        <DataTarget>
+          <Type>ForwardingShipment</Type>
+          <Key>S00007587</Key>
+        </DataTarget>
+      </DataTargetCollection>
+      <Company>
+        <Code>BOG</Code>
+      </Company>
+      <EnterpriseID>C07</EnterpriseID>
+      <ServerID>TST</ServerID>
+    </DataContext>
+  </ShipmentRequest>
+</UniversalShipmentRequest>

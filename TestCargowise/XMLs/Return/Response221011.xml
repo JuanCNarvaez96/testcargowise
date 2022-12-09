@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UniversalResponse version="1.1" xmlns="http://www.cargowise.com/Schemas/Universal/2011/11">
+  <Status>PRS</Status>
+  <Data><UniversalShipment xmlns="http://www.cargowise.com/Schemas/Universal/2011/11" version="1.1">
+  <Shipment>
+    <DataContext>
+      <DataSourceCollection>
+        <DataSource>
+          <Type>ForwardingShipment</Type>
+          <Key>S00002591</Key>
+        </DataSource>
+      </DataSourceCollection>
+
+      <Company>
+        <Code>BOG</Code>
+        <Country>
+          <Code>CO</Code>
+          <Name>Colombia</Name>
+        </Country>
+        <Name>Consolcargo SAS</Name>
+      </Company>
+      <DataProvider>C07PRDBOG</DataProvider>
+      <EnterpriseID>C07</EnterpriseID>
+      <ServerID>PRD</ServerID>
+    </DataContext>
+
+    <ActualChargeable>0.000</ActualChargeable>
+    <AdditionalTerms></AdditionalTerms>
+    <BookingConfirmationReference></BookingConfirmationReference>
+    <CartageWaybillNumber></CartageWaybillNumber>
+    <CFSReference></CFSReference>
+    <CommunityTransitStatus>
+      <Code></Code>
+    </CommunityTransitStatus>
+    <ContainerCount>0</ContainerCount>
+    <ContainerMode>
+      <Code>LCL</Code>
+      <Description>Less Container Load</Description>
+    </ContainerMode>
+    <DocumentedChargeable>0.000</DocumentedChargeable>
+    <DocumentedVolume>0.000</DocumentedVolume>
+    <DocumentedWeight>0.000</DocumentedWeight>
+    <FreightRate>0.0000</FreightRate>
+    <FreightRateCurrency>
+      <Code></Code>
+    </FreightRateCurrency>
+    <GoodsDescription></GoodsDescription>
+    <GoodsValue>0.0000</GoodsValue>
+    <GoodsValueCurrency>
+      <Code>COP</Code>
+      <Description>Colombian Peso</Description>
+    </GoodsValueCurrency>
+    <HBLAWBChargesDisplay>
+      <Code>NON</Code>
+      <Description>No Charges showing</Description>
+    </HBLAWBChargesDisplay>
+    <HBLContainerPackModeOverride></HBLContainerPackModeOverride>
+    <HouseBillOfLadingType>
+      <Code>IAU</Code>
+      <Description>IT Club Australia</Description>
+    </HouseBillOfLadingType>
+    <InsuranceValue>0.0000</InsuranceValue>
+    <InsuranceValueCurrency>
+      <Code>COP</Code>
+      <Description>Colombian Peso</Description>
+    </InsuranceValueCurrency>
+    <InterimReceiptNumber></InterimReceiptNumber>
+    <IsBooking>false</IsBooking>
+    <IsCancelled>false</IsCancelled>
+    <IsCFSRegistered>false</IsCFSRegistered>
+    <IsDirectBooking>false</IsDirectBooking>
+    <IsForwardRegistered>true</IsForwardRegistered>
+    <IsHighRisk>false</IsHighRisk>
+    <IsNeutralMaster>false</IsNeutralMaster>
+    <IsShipping>false</IsShipping>
+    <IsSplitShipment>false</IsSplitShipment>
+    <JobCosting>
+      <AccrualNotRecognized>0</AccrualNotRecognized>
+      <AccrualRecognized>0</AccrualRecognized>
+      <AgentRevenue>0</AgentRevenue>
+      <Branch>
+        <Code>BAQ</Code>
+        <Name>CONSOL BAQ</Name>
+      </Branch>
+      <Currency>
+        <Code>COP</Code>
+        <Description>Colombian Peso</Description>
+      </Currency>
+      <Department>
+        <Code>FES</Code>
+        <Name>Forwarding Export Sea</Name>
+      </Department>
+      <HomeBranch>
+        <Code>BOG</Code>
+        <Name>CONSOL BOG</Name>
+      </HomeBranch>
+      <LocalClientRevenue>0</LocalClientRevenue>
+      <OperationsStaff>
+        <Code>EAA</Code>
+        <Name>EDWIN ALEXANDER ARIAS MORENO</Name>
+      </OperationsStaff>
+      <OtherDebtorRevenue>0</OtherDebtorRevenue>
+      <SalesStaff>
+        <Code>FG</Code>
+        <Name>Francesca Gaviria</Name>
+      </SalesStaff>
+      <TotalAccrual>0</TotalAccrual>
+      <TotalCost>0</TotalCost>
+      <TotalJobProfit>0</TotalJobProfit>
+      <TotalRevenue>0</TotalRevenue>
+      <TotalWIP>0</TotalWIP>
+      <WIPNotRecognized>0</WIPNotRecognized>
+      <WIPRecognized>0</WIPRecognized>
+    </JobCosting>
+    <ManifestedChargeable>0.000</ManifestedChargeable>
+    <ManifestedVolume>0.000</ManifestedVolume>
+    <ManifestedWeight>0.000</ManifestedWeight>
+    <NoCopyBills>1</NoCopyBills>
+    <NoOriginalBills>1</NoOriginalBills>
+    <OuterPacks>0</OuterPacks>
+    <OuterPacksPackageType>
+      <Code>PLT</Code>
+      <Description>Pallet</Description>
+    </OuterPacksPackageType>
+    <PackingOrder>0</PackingOrder>
+    <PortOfDestination>
+      <Code>DOSDQ</Code>
+      <Name>Santo Domingo</Name>
+    </PortOfDestination>
+    <PortOfOrigin>
+      <Code>COBOG</Code>
+      <Name>Bogota</Name>
+    </PortOfOrigin>
+    <ReleaseType>
+      <Code>EBL</Code>
+      <Description>Express Bill of Lading</Description>
+    </ReleaseType>
+    <ScreeningStatus>
+      <Code>NOT</Code>
+      <Description>Not Screened</Description>
+    </ScreeningStatus>
+    <ServiceLevel>
+      <Code>STD</Code>
+      <Description>Standard</Description>
+    </ServiceLevel>
+    <ShipmentIncoTerm>
+      <Code>FOB</Code>
+      <Description>Free On Board</Description>
+    </ShipmentIncoTerm>
+    <ShipmentType>
+      <Code>STD</Code>
+      <Description>Standard House</Description>
+    </ShipmentType>
+    <ShippedOnBoard>
+      <Code>SHP</Code>
+      <Description>Shipped</Description>
+    </ShippedOnBoard>
+    <ShipperCODAmount>0.0000</ShipperCODAmount>
+    <ShipperCODPayMethod>
+      <Code></Code>
+    </ShipperCODPayMethod>
+    <TotalNoOfPacks>0</TotalNoOfPacks>
+    <TotalNoOfPacksPackageType>
+      <Code>CTN</Code>
+      <Description>Carton</Description>
+    </TotalNoOfPacksPackageType>
+    <TotalVolume>0.000</TotalVolume>
+    <TotalVolumeUnit>
+      <Code>M3</Code>
+      <Description>Cubic Meters</Description>
+    </TotalVolumeUnit>
+    <TotalWeight>0.000</TotalWeight>
+    <TotalWeightUnit>
+      <Code>KG</Code>
+      <Description>Kilograms</Description>
+    </TotalWeightUnit>
+    <TranshipToOtherCFS>false</TranshipToOtherCFS>
+    <TransportMode>
+      <Code>SEA</Code>
+      <Description>Sea Freight</Description>
+    </TransportMode>
+    <WarehouseLocation></WarehouseLocation>
+    <WayBillNumber>C00001074A</WayBillNumber>
+    <WayBillType>
+      <Code>HWB</Code>
+      <Description>House Waybill</Description>
+    </WayBillType>
+
+    <LocalProcessing>
+      <ArrivalCartageRef></ArrivalCartageRef>
+      <DeliveryCartageAdvised></DeliveryCartageAdvised>
+      <DeliveryCartageCompleted></DeliveryCartageCompleted>
+      <DeliveryLabourCharge>0.0000</DeliveryLabourCharge>
+      <DeliveryLabourTime></DeliveryLabourTime>
+      <DeliveryRequiredBy></DeliveryRequiredBy>
+      <DeliveryRequiredFrom></DeliveryRequiredFrom>
+      <DeliveryTruckWaitCharge>0.0000</DeliveryTruckWaitCharge>
+      <DeliveryTruckWaitTime></DeliveryTruckWaitTime>
+      <DemurrageOnDeliveryCharge>0.0000</DemurrageOnDeliveryCharge>
+      <DemurrageOnDeliveryTime></DemurrageOnDeliveryTime>
+      <DemurrageOnPickupCharge>0.0000</DemurrageOnPickupCharge>
+      <DemurrageOnPickupTime></DemurrageOnPickupTime>
+      <EstimatedDelivery></EstimatedDelivery>
+      <EstimatedPickup></EstimatedPickup>
+      <ExportStatement>
+        <Code></Code>
+      </ExportStatement>
+      <FCLAvailable></FCLAvailable>
+      <FCLDeliveryDetentionCharge>0.0000</FCLDeliveryDetentionCharge>
+      <FCLDeliveryDetentionDays>0</FCLDeliveryDetentionDays>
+      <FCLDeliveryDetentionFreeDays>0</FCLDeliveryDetentionFreeDays>
+      <FCLDeliveryEquipmentNeeded>
+        <Code>PSL</Code>
+        <Description>Premise Supplies Lift</Description>
+      </FCLDeliveryEquipmentNeeded>
+      <FCLPickupDetentionCharge>0.0000</FCLPickupDetentionCharge>
+      <FCLPickupDetentionDays>0</FCLPickupDetentionDays>
+      <FCLPickupDetentionFreeDays>0</FCLPickupDetentionFreeDays>
+      <FCLPickupEquipmentNeeded>
+        <Code>PSL</Code>
+        <Description>Premise Supplies Lift</Description>
+      </FCLPickupEquipmentNeeded>
+      <FCLStorageCommences></FCLStorageCommences>
+      <HasProhibitedPackaging>false</HasProhibitedPackaging>
+      <InsuranceRequired>false</InsuranceRequired>
+      <IsContingencyRelease>false</IsContingencyRelease>
+      <LCLAirStorageCharge>0.0000</LCLAirStorageCharge>
+      <LCLAirStorageDaysOrHours>0</LCLAirStorageDaysOrHours>
+      <LCLAvailable></LCLAvailable>
+      <LCLDatesOverrideConsol>false</LCLDatesOverrideConsol>
+      <LCLStorageCommences></LCLStorageCommences>
+      <PickupCartageAdvised></PickupCartageAdvised>
+      <PickupCartageCompleted></PickupCartageCompleted>
+      <PickupLabourCharge>0.0000</PickupLabourCharge>
+      <PickupLabourTime></PickupLabourTime>
+      <PickupRequiredBy></PickupRequiredBy>
+      <PickupRequiredFrom></PickupRequiredFrom>
+      <PickupTruckWaitCharge>0.0000</PickupTruckWaitCharge>
+      <PickupTruckWaitTime></PickupTruckWaitTime>
+      <PrintOptionForPackagesOnAWB>
+        <Code>DEF</Code>
+        <Description>Default (Dims, fallback to Vol)</Description>
+      </PrintOptionForPackagesOnAWB>
+    </LocalProcessing>
+
+    <CustomizedFieldCollection>
+      <CustomizedField>
+        <DataType>String</DataType>
+        <Key>Liberado a:</Key>
+        <Value></Value>
+      </CustomizedField>
+      <CustomizedField>
+        <DataType>DateTime</DataType>
+        <Key>Fecha de Liberacion:</Key>
+        <Value></Value>
+      </CustomizedField>
+      <CustomizedField>
+        <DataType>String</DataType>
+        <Key>Días Libres</Key>
+        <Value></Value>
+      </CustomizedField>
+      <CustomizedField>
+        <DataType>String</DataType>
+        <Key>CATEGORIA</Key>
+        <Value></Value>
+      </CustomizedField>
+    </CustomizedFieldCollection>
+
+    <DateCollection>
+      <Date>
+        <Type>BookingConfirmed</Type>
+        <IsEstimate>false</IsEstimate>
+        <Value></Value>
+      </Date>
+      <Date>
+        <Type>Received</Type>
+        <IsEstimate>false</IsEstimate>
+        <Value></Value>
+      </Date>
+      <Date>
+        <Type>Departure</Type>
+        <IsEstimate>true</IsEstimate>
+        <Value>2022-05-26T16:00:00</Value>
+      </Date>
+      <Date>
+        <Type>Arrival</Type>
+        <IsEstimate>true</IsEstimate>
+        <Value>2022-05-27T18:00:00</Value>
+      </Date>
+      <Date>
+        <Type>ShippedOnBoard</Type>
+        <IsEstimate>false</IsEstimate>
+        <Value></Value>
+      </Date>
+      <Date>
+        <Type>BillIssued</Type>
+        <IsEstimate>false</IsEstimate>
+        <Value></Value>
+      </Date>
+      <Date>
+        <Type>PickupReceiptRequested</Type>
+        <IsEstimate>false</IsEstimate>
+        <Value></Value>
+      </Date>
+      <Date>
+        <Type>DeliveryReceiptRequested</Type>
+        <IsEstimate>false</IsEstimate>
+        <Value></Value>
+      </Date>
+      <Date>
+        <Type>PickupDispatchRequested</Type>
+        <IsEstimate>false</IsEstimate>
+        <Value></Value>
+      </Date>
+      <Date>
+        <Type>DeliveryDispatchRequested</Type>
+        <IsEstimate>false</IsEstimate>
+        <Value></Value>
+      </Date>
+    </DateCollection>
+
+    <OrganizationAddressCollection>
+      <OrganizationAddress>
+        <AddressType>ConsignorDocumentaryAddress</AddressType>
+        <Address1>Av calle 26 # 96 J 66</Address1>
+        <Address2>Edificio Optimus oficina 401</Address2>
+        <AddressOverride>false</AddressOverride>
+        <AddressShortCode>Av calle 26 # 96 J 66</AddressShortCode>
+        <City>Bogota</City>
+        <CompanyName>Consolcargo SAS</CompanyName>
+        <Country>
+          <Code>CO</Code>
+          <Name>Colombia</Name>
+        </Country>
+        <Email>alejandraparra@consolcargo.com</Email>
+        <Fax></Fax>
+        <GovRegNum>830099025-0</GovRegNum>
+        <GovRegNumType>
+          <Code>NIT</Code>
+          <Description>NIT/ Tax and VAT(IVA) Registration </Description>
+        </GovRegNumType>
+        <OrganizationCode>CONSOLBOG</OrganizationCode>
+        <Phone>+5712637122</Phone>
+        <Port>
+          <Code>COBOG</Code>
+          <Name>Bogota</Name>
+        </Port>
+        <Postcode></Postcode>
+        <ScreeningStatus>
+          <Code>NOT</Code>
+          <Description>Not Screened</Description>
+        </ScreeningStatus>
+        <State Description="Distrito Capital de Bogotá">DC</State>
+
+        <RegistrationNumberCollection>
+          <RegistrationNumber>
+            <Type>
+              <Code>C1C</Code>
+              <Description>CargoWiseOne Carrier Code</Description>
+            </Type>
+            <CountryOfIssue>
+              <Code>US</Code>
+              <Name>United States</Name>
+            </CountryOfIssue>
+            <Value>C1LC</Value>
+          </RegistrationNumber>
+          <RegistrationNumber>
+            <Type>
+              <Code>CCC</Code>
+              <Description>Standard Carrier Alpha Code (Sea)</Description>
+            </Type>
+            <CountryOfIssue>
+              <Code>US</Code>
+              <Name>United States</Name>
+            </CountryOfIssue>
+            <Value>CNUI</Value>
+          </RegistrationNumber>
+        </RegistrationNumberCollection>
+      </OrganizationAddress>
+      <OrganizationAddress>
+        <AddressType>ConsignorPickupDeliveryAddress</AddressType>
+        <Address1>Av calle 26 # 96 J 66</Address1>
+        <Address2>Edificio Optimus oficina 401</Address2>
+        <AddressOverride>false</AddressOverride>
+        <AddressShortCode>Av calle 26 # 96 J 66</AddressShortCode>
+        <City>Bogota</City>
+        <CompanyName>Consolcargo SAS</CompanyName>
+        <Country>
+          <Code>CO</Code>
+          <Name>Colombia</Name>
+        </Country>
+        <Email>alejandraparra@consolcargo.com</Email>
+        <Fax></Fax>
+        <GovRegNum>830099025-0</GovRegNum>
+        <GovRegNumType>
+          <Code>NIT</Code>
+          <Description>NIT/ Tax and VAT(IVA) Registration </Description>
+        </GovRegNumType>
+        <OrganizationCode>CONSOLBOG</OrganizationCode>
+        <Phone>+5712637122</Phone>
+        <Port>
+          <Code>COBOG</Code>
+          <Name>Bogota</Name>
+        </Port>
+        <Postcode></Postcode>
+        <ScreeningStatus>
+          <Code>NOT</Code>
+          <Description>Not Screened</Description>
+        </ScreeningStatus>
+        <State Description="Distrito Capital de Bogotá">DC</State>
+
+        <RegistrationNumberCollection>
+          <RegistrationNumber>
+            <Type>
+              <Code>C1C</Code>
+              <Description>CargoWiseOne Carrier Code</Description>
+            </Type>
+            <CountryOfIssue>
+              <Code>US</Code>
+              <Name>United States</Name>
+            </CountryOfIssue>
+            <Value>C1LC</Value>
+          </RegistrationNumber>
+          <RegistrationNumber>
+            <Type>
+              <Code>CCC</Code>
+              <Description>Standard Carrier Alpha Code (Sea)</Description>
+            </Type>
+            <CountryOfIssue>
+              <Code>US</Code>
+              <Name>United States</Name>
+            </CountryOfIssue>
+            <Value>CNUI</Value>
+          </RegistrationNumber>
+        </RegistrationNumberCollection>
+      </OrganizationAddress>
+      <OrganizationAddress>
+        <AddressType>ConsigneeDocumentaryAddress</AddressType>
+        <Address1>CARRETERA SANCHEZ KM 12 1/2</Address1>
+        <Address2>CARRETERA SANCHEZ KM 12 1/2</Address2>
+        <AddressOverride>false</AddressOverride>
+        <AddressShortCode>CARRETERA SANCHEZ KM 12 1</AddressShortCode>
+        <City>SANTO DOMINGO</City>
+        <CompanyName>CARIBETRANS SAS</CompanyName>
+        <Country>
+          <Code>DO</Code>
+          <Name>Dominican Republic</Name>
+        </Country>
+        <Email>LVARGAS@CARIBETRANS.COM</Email>
+        <Fax></Fax>
+        <OrganizationCode>CARIBESDQ</OrganizationCode>
+        <Phone>+18096850730</Phone>
+        <Port>
+          <Code>DOSDQ</Code>
+          <Name>Santo Domingo</Name>
+        </Port>
+        <Postcode>0000</Postcode>
+        <ScreeningStatus>
+          <Code>NOT</Code>
+          <Description>Not Screened</Description>
+        </ScreeningStatus>
+        <State Description="0">0</State>
+
+        <RegistrationNumberCollection>
+          <RegistrationNumber>
+            <Type>
+              <Code>GBR</Code>
+              <Description>Government Business Code</Description>
+            </Type>
+            <CountryOfIssue>
+              <Code>CO</Code>
+              <Name>Colombia</Name>
+            </CountryOfIssue>
+            <Value>RNC 101034963</Value>
+          </RegistrationNumber>
+        </RegistrationNumberCollection>
+      </OrganizationAddress>
+      <OrganizationAddress>
+        <AddressType>ConsigneePickupDeliveryAddress</AddressType>
+        <Address1>CARRETERA SANCHEZ KM 12 1/2</Address1>
+        <Address2>CARRETERA SANCHEZ KM 12 1/2</Address2>
+        <AddressOverride>false</AddressOverride>
+        <AddressShortCode>CARRETERA SANCHEZ KM 12 1</AddressShortCode>
+        <City>SANTO DOMINGO</City>
+        <CompanyName>CARIBETRANS SAS</CompanyName>
+        <Country>
+          <Code>DO</Code>
+          <Name>Dominican Republic</Name>
+        </Country>
+        <Email>LVARGAS@CARIBETRANS.COM</Email>
+        <Fax></Fax>
+        <OrganizationCode>CARIBESDQ</OrganizationCode>
+        <Phone>+18096850730</Phone>
+        <Port>
+          <Code>DOSDQ</Code>
+          <Name>Santo Domingo</Name>
+        </Port>
+        <Postcode>0000</Postcode>
+        <ScreeningStatus>
+          <Code>NOT</Code>
+          <Description>Not Screened</Description>
+        </ScreeningStatus>
+        <State Description="0">0</State>
+
+        <RegistrationNumberCollection>
+          <RegistrationNumber>
+            <Type>
+              <Code>GBR</Code>
+              <Description>Government Business Code</Description>
+            </Type>
+            <CountryOfIssue>
+              <Code>CO</Code>
+              <Name>Colombia</Name>
+            </CountryOfIssue>
+            <Value>RNC 101034963</Value>
+          </RegistrationNumber>
+        </RegistrationNumberCollection>
+      </OrganizationAddress>
+      <OrganizationAddress>
+        <AddressType>SendersLocalClient</AddressType>
+        <Address1>Av calle 26 # 96 J 66</Address1>
+        <Address2>Edificio Optimus oficina 401</Address2>
+        <AddressOverride>false</AddressOverride>
+        <AddressShortCode>Av calle 26 # 96 J 66</AddressShortCode>
+        <City>Bogota</City>
+        <CompanyName>Consolcargo SAS</CompanyName>
+        <Country>
+          <Code>CO</Code>
+          <Name>Colombia</Name>
+        </Country>
+        <Email>alejandraparra@consolcargo.com</Email>
+        <Fax></Fax>
+        <GovRegNum>830099025-0</GovRegNum>
+        <GovRegNumType>
+          <Code>NIT</Code>
+          <Description>NIT/ Tax and VAT(IVA) Registration </Description>
+        </GovRegNumType>
+        <OrganizationCode>CONSOLBOG</OrganizationCode>
+        <Phone>+5712637122</Phone>
+        <Port>
+          <Code>COBOG</Code>
+          <Name>Bogota</Name>
+        </Port>
+        <Postcode></Postcode>
+        <ScreeningStatus>
+          <Code>NOT</Code>
+          <Description>Not Screened</Description>
+        </ScreeningStatus>
+        <State Description="Distrito Capital de Bogotá">DC</State>
+
+        <RegistrationNumberCollection>
+          <RegistrationNumber>
+            <Type>
+              <Code>C1C</Code>
+              <Description>CargoWiseOne Carrier Code</Description>
+            </Type>
+            <CountryOfIssue>
+              <Code>US</Code>
+              <Name>United States</Name>
+            </CountryOfIssue>
+            <Value>C1LC</Value>
+          </RegistrationNumber>
+          <RegistrationNumber>
+            <Type>
+              <Code>CCC</Code>
+              <Description>Standard Carrier Alpha Code (Sea)</Description>
+            </Type>
+            <CountryOfIssue>
+              <Code>US</Code>
+              <Name>United States</Name>
+            </CountryOfIssue>
+            <Value>CNUI</Value>
+          </RegistrationNumber>
+        </RegistrationNumberCollection>
+      </OrganizationAddress>
+      <OrganizationAddress>
+        <AddressType>SendersOverseasAgent</AddressType>
+        <Address1>CARRETERA SANCHEZ KM 12 1/2</Address1>
+        <Address2>CARRETERA SANCHEZ KM 12 1/2</Address2>
+        <AddressOverride>false</AddressOverride>
+        <AddressShortCode>CARRETERA SANCHEZ KM 12 1</AddressShortCode>
+        <City>SANTO DOMINGO</City>
+        <CompanyName>CARIBETRANS SAS</CompanyName>
+        <Country>
+          <Code>DO</Code>
+          <Name>Dominican Republic</Name>
+        </Country>
+        <Email>LVARGAS@CARIBETRANS.COM</Email>
+        <Fax></Fax>
+        <OrganizationCode>CARIBESDQ</OrganizationCode>
+        <Phone>+18096850730</Phone>
+        <Port>
+          <Code>DOSDQ</Code>
+          <Name>Santo Domingo</Name>
+        </Port>
+        <Postcode>0000</Postcode>
+        <ScreeningStatus>
+          <Code>NOT</Code>
+          <Description>Not Screened</Description>
+        </ScreeningStatus>
+        <State Description="0">0</State>
+
+        <RegistrationNumberCollection>
+          <RegistrationNumber>
+            <Type>
+              <Code>GBR</Code>
+              <Description>Government Business Code</Description>
+            </Type>
+            <CountryOfIssue>
+              <Code>CO</Code>
+              <Name>Colombia</Name>
+            </CountryOfIssue>
+            <Value>RNC 101034963</Value>
+          </RegistrationNumber>
+        </RegistrationNumberCollection>
+      </OrganizationAddress>
+    </OrganizationAddressCollection>
+
+    <PackingLineCollection Content="Complete">
+    </PackingLineCollection>
+  </Shipment>
+</UniversalShipment>
+</Data>
+  <ProcessingLog />
+</UniversalResponse>
+<?xml version="1.0" encoding="utf-8"?>
+<UniversalResponse version="1.1" xmlns="http://www.cargowise.com/Schemas/Universal/2011/11">
+  <Status>ERR</Status>
+  <Data />
+  <ProcessingLog>Warning - There is no business object matching the criteria.</ProcessingLog>
+</UniversalResponse>
